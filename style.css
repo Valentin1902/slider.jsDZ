@@ -47,6 +47,6 @@ body {
   position: absolute;
   left: 924px;
   top: 740px;
-
-  background-color: white;
+  color: white;
+  background-color: rgb(49, 49, 179);
 }
